@@ -2,7 +2,7 @@
     "variables": {
         "vm_name": "macos",
         "iso_url": "/tmp/macos-10.13.iso",
-        "iso_checksum_type": "sha512",
+        "iso_checksum_type": "none",
         "iso_checksum_url": "file:///tmp/macos-10.13.iso.sha512",
         "ssh_username": "vagrant",
         "ssh_password": "vagrant",
